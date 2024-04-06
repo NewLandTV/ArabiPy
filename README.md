@@ -1,0 +1,2 @@
+# ArabiPy
+Arabic + Python = ArabiPy.

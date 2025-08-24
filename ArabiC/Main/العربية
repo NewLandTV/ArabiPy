@@ -1,0 +1,32 @@
+﻿#ifndef __العربية__
+#define __العربية__
+
+// Standary
+#include <stdio.h>
+
+// IO
+#define مطبعة printf
+#define مدخل scanf
+#define إخراجيونيكود wprintf
+
+// Data types
+typedef void أفرغت;
+typedef int رقم;
+
+// Name
+#define نقطةالدخول main
+
+// Symbols
+#define أقواسمفتوحة (
+#define قوسالإغلاق )
+#define فتحالقوسالأوسط {
+#define إغلاقالأقواسالوسطى }
+#define فاصلةمنقوطة ;
+
+// Keywords
+#define يعود return
+
+// Numbers
+#define صفر 0
+
+#endif
